@@ -1,0 +1,4 @@
+interface:
+  display_name: "Belief Identifier"
+  short_description: "Trace feelings and thoughts to personal beliefs."
+  default_prompt: "Use $belief-identifier to investigate what I don't prefer, clarify what I do prefer, and identify the beliefs and definitions behind my feelings and recurring thoughts, one question at a time."
