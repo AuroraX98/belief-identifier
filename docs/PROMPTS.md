@@ -10,7 +10,11 @@ Use these with the installed skill or after the assistant confirms it can read t
 4. Check the proposed definition before trying an alternative. Notice whether the new wording feels believable and what feeling actually follows.
 5. Request a connection map when several threads emerge. Use it to resume later without treating tentative ideas as established beliefs.
 
-Use these prompts when they address the current missing connection. Let the skill choose relevant questions from its 44-question bank; coverage is useful when it deepens understanding, rather than as a quota. Several beliefs can be explored over multiple conversations. Progress means greater clarity and a reported change, not a required feeling or deadline for release.
+Use these prompts when they address the current missing connection. Let the skill choose relevant questions from its original 44-question bank and the 72 expanded prompts; coverage is useful when it deepens understanding, rather than as a quota. Several beliefs can be explored over multiple conversations. Progress means greater clarity and a reported change, not a required feeling or deadline for release.
+
+## Follow the missing connection
+
+> Use Belief Identifier to follow this specific reaction: [moment and response]. Recover the prediction or meaning that was active, clarify the premise connecting it to my conclusion, and explore the feared alternative when relevant. Ask one question at a time. Keep origins optional, use my wording, and check a proposed belief with me before treating it as established. If a question adds no information, investigate the next unresolved connection.
 
 ## Start from something specific
 

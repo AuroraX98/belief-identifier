@@ -6,6 +6,8 @@ Read this bank before beginning the investigation. These are key question patter
 
 Use the answer to identify a candidate belief or definition that makes the user's unpreferred response or resistance understandable. Trace what they expect, what that outcome would mean, and what they believe it says about them or their situation. Confirm the formulation with the user before calling it established. A prompt about taking action can clarify a desire, prediction, perceived benefit, feared cost, or self-definition; it is not a reason to move into action coaching before the relevant meaning is understood. A way forward should follow from that understanding and a credible preferred definition.
 
+The additional [72 expanded inquiry questions](expanded-questions.md) offer refined questions and deeper follow-ups for the user's later question collection. Consult the relevant category when the current answer leaves a prediction, meaning, supporting premise, or perceived consequence unclear. Preserve the 44 originals below. Choose across both collections by context rather than reading either as a sequence.
+
 The first-person wording can be kept for a self-inquiry prompt or adapted to second person in conversation. Adjust tense, terms, specificity, and phrasing to match the user's answers while preserving the inquiry purpose. Connect “it,” “this desire,” and “this belief” to the user's actual scene. Keep the reference originals unchanged. Do not combine several prompts into a multipart question.
 
 ## Context routing

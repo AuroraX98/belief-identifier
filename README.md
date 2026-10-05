@@ -16,7 +16,7 @@ The skill begins with the unwanted situation, what you would prefer, and how you
 
 It checks assumptions, evidence in your own account, contradictions, and real constraints. A suggested belief remains a candidate until you confirm that it fits. Supporting beliefs and possible core beliefs stay distinct; the skill does not force every concern into a deeper explanation.
 
-The included bank of 44 author-supplied questions is used contextually. Motivation questions compare what a belief appears to protect or provide with what you fear about responding as you would prefer. They do not presume an unconscious benefit or hidden motive.
+The included bank of 44 author-supplied questions and the additional 72 expanded questions are used contextually. The inquiry follows one specific reaction through its prediction or meaning and supporting premise, then checks the wording with you. Origins remain optional. Motivation questions compare what a belief appears to protect or provide with what you fear about responding as you would prefer. They do not presume an unconscious benefit or hidden motive.
 
 The skill helps you explore alternative definitions you can actually believe. Here, letting go means examining a meaning, allowing feelings to be present, testing a preferred definition, and checking what you report afterward. An old thought returning is something to examine, without assuming failure.
 
@@ -59,8 +59,8 @@ The ZIP keeps the complete skill folder together, following [Claude’s packagin
 The package contains:
 
 - `README.md` and `docs/PROMPTS.md` for documentation and copy/paste prompts.
-- `belief-identifier/SKILL.md` and four references: `questions.md`, `teachings.md`, `visualization.md`, and `source-notes.md`.
-- `chatgpt/Belief-Identifier.md`, combining the complete skill instructions and all four references in one file.
+- `belief-identifier/SKILL.md` and five references: `questions.md`, `expanded-questions.md`, `teachings.md`, `visualization.md`, and `source-notes.md`.
+- `chatgpt/Belief-Identifier.md`, combining the complete skill instructions and all five references in one file.
 - `belief-identifier/agents/openai.yaml`, `LICENSE`, `downloads/belief-identifier.zip`, and `downloads/SHA256SUMS`.
 
 The entire deep-focus instruction body is embedded, with no separate dependency. The package includes instructions and references without executable code or network tools. No personal investigation transcript is included.

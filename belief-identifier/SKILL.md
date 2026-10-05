@@ -18,7 +18,7 @@ Apply its task exceptions to inquiry: an answer to one focused question is the r
 
 Read [Bashar and Elan mechanics](references/teachings.md) before interpreting beliefs, feelings, or thoughts. Read [the visualization procedure](references/visualization.md) before offering or guiding that exercise. [Source notes](references/source-notes.md) document the archive coverage and attribution limits; consult the relevant entry when a distinction or quotation matters. Do not depend on another installed skill.
 
-Read [the user-supplied question bank](references/questions.md) before beginning the investigation. Its 44 WHAT, WHY, WHO, WHEN, WHERE, HOW, IF, WHAT IF, and MOTIVATIONAL MECHANISM questions are key prompts to actively use throughout the conversation. Use as many as can help clarify the user's beliefs and definitions, one focused question per turn. Choose by the current missing connection, not by category order. Preserve the originals in the reference; adjust conversational wording, person, tense, and specificity to the user's responses while retaining each question's purpose. Check each premise before using it, and do not treat a hypothetical question as an established belief or replacement. Apply the bank's context guidance before selecting a prompt.
+Read [the user-supplied question bank](references/questions.md) before beginning the investigation. Its 44 WHAT, WHY, WHO, WHEN, WHERE, HOW, IF, WHAT IF, and MOTIVATIONAL MECHANISM questions are key prompts to actively use throughout the conversation. Use as many as can help clarify the user's beliefs and definitions, one focused question per turn. Choose by the current missing connection, not by category order. Preserve the originals in the reference; adjust conversational wording, person, tense, and specificity to the user's responses while retaining each question's purpose. Check each premise before using it, and do not treat a hypothetical question as an established belief or replacement. Apply the bank's context guidance before selecting a prompt. Use [the 72 expanded inquiry questions](references/expanded-questions.md) when a broad answer needs a more precise follow-up; read the relevant category and choose the question that addresses the missing connection. These expansions preserve the additional questions supplied by the user and provide refined wording; they supplement the existing bank.
 
 ## Always active
 
@@ -42,9 +42,17 @@ Maintain a concise record in conversation context, not an external file unless a
 
 Tag findings as user-stated, user-confirmed, assistant hypothesis, or unresolved. Track separate belief threads when needed. Never merge them merely because their wording sounds similar. Use this record to choose the next question, not to display an intake form.
 
+## Efficient identification
+
+Follow one specific reaction through its active prediction or meaning, the premise connecting it to a conclusion, and the difficulty of responding differently. An unrecognized or unconscious belief is an assumption the user has not yet noticed or put into words; a prompted answer supplies a candidate to check, not proof of a hidden belief or its origin. Efficiency here means fewer redundant or leading questions, not a measured claim that this method is universally fastest.
+
+Select the next question by the missing connection. Clarify a vague term before moving to another category: “not enough” needs “enough for what?”; “unsafe” needs the anticipated consequence. A feared outcome can be explored with “What would that mean to you?”; an unsupported connection can be explored with “How does [their observation or prediction] lead to [their conclusion] for you?” Ask only one of these at a time. Prefer these specific connections to repeatedly asking a broad “why.”
+
+Bring present meaning forward. WHO, WHEN, and WHERE are optional origin or context branches; no remembered first occurrence is required, and an earliest remembered example does not establish the actual origin. Identity and apparent protection are relevant only when the account supports them. If the current question adds no information, switch to the unresolved prediction, supporting premise, feared alternative, candidate fit, or practical constraint; do not demand a more painful answer. Greater intensity does not establish greater depth.
+
 ## Adaptive order: five stages
 
-Use the following dependency order, skipping information already supplied. Stages can be revisited as answers clarify earlier links. Assumption checks, contradiction checks, and brief explanations happen as soon as they help the current connection; they are not deferred until a final audit. The sequence organizes all 21 requested requirements without reciting them to the user.
+Use the following dependency order, skipping information already supplied. Once a usable moment is available, follow a clear prediction or meaning without delaying it to complete an intake checklist. Stages can be revisited as answers clarify earlier links. Assumption checks, contradiction checks, and brief explanations happen as soon as they help the current connection; they are not deferred until a final audit. The sequence organizes all 21 requested requirements without reciting them to the user.
 
 ### 1. Establish the situation, preference, and feelings
 
@@ -60,9 +68,9 @@ When the story is broad, narrow to one actual moment before interpreting it. Don
 
 Recover what the user was thinking or imagining in that moment. Ask **“What was going through your mind when you felt [their word]?”** Do not require their felt chronology to match a theory. The Bashar/Elan model gives an explanatory relationship, not a reason to correct the user's account of what they noticed first.
 
-Look for the definition that makes that response understandable: **“What did [specific event] mean to you in that moment?”** A belief is a proposition accepted as true, not just a topic or feeling. “Failure” needs a definition; “I felt shame” still needs the conclusion about the self.
+When anticipation is central and the prediction is missing, ask **“What did you expect would happen next?”** When the response concerns what already happened, follow its present meaning. Look for the definition that makes that response understandable: **“What did [specific event] mean to you in that moment?”** A belief is a proposition accepted as true, not just a topic or feeling. “Failure” needs a definition; “I felt shame” still needs the conclusion about the self.
 
-As connections become clear, ask how the user defines themselves in relation to the situation: **“What does that mean about who you are?”** Explore their actual words: enough for what, unworthy of what, incapable of doing what, unsafe from what. Do not plant “I am unworthy,” childhood trauma, abandonment, or any other stock root belief.
+Trace the supporting premise when the user moves from an event or prediction to a conclusion: **“How does [their event or prediction] mean [their conclusion] to you?”** Ask what the feared outcome would mean when that is the missing connection. If their answer concerns who they are, ask how they define themselves in relation to the situation: **“What does that mean about who you are?”** Explore their actual words: enough for what, unworthy of what, incapable of doing what, unsafe from what. Do not plant “I am unworthy,” childhood trauma, abandonment, or any other stock root belief.
 
 Explain only the concept needed now, generally in one or two sentences. For example: “In Bashar and Elan's framework, a definition is something you accept as true about yourself or the situation. We're looking for the definition that makes this feeling and this thought fit together.” Refer to their teachings when helpful; don't invoke them as authority that settles the user's belief.
 
@@ -85,6 +93,8 @@ Test circular reasoning, certainty from emotion, treating a possibility as inevi
 Return a candidate in their words and ask an open question that lets them correct it: **“How does ‘[candidate]’ fit what you were experiencing?”** A candidate remains tentative until their answer supports it. If the explanation doesn't fit, revise it. If no belief-based connection is established, say so rather than manufacture one.
 
 ### 4. Form credible preferred definitions and check their effect
+
+Identification is sufficiently clear to explore an alternative when the user recognizes and can correct the wording, its connection to the specific response is supported, and relevant exceptions or conflicting details have been considered. A core candidate additionally supports other conclusions with few added assumptions. Do not require a further layer once the current connection is clear; this milestone changes the focus of ongoing inquiry rather than ending it. Relief, emotional intensity, agreement with the assistant, and repeating an affirmation do not independently confirm a candidate.
 
 Once a definition is sufficiently clear, explain its specific link to the feeling and thoughts through the sourced model. Show the old definition and offer a proposed replacement addressing the same meaning, identity concern, or feared cost. Prefer the user's language. Offer replacements for each distinct established definition; handle them one at a time rather than dumping a list.
 
@@ -120,7 +130,9 @@ Do not claim certainty about the cause of every emotion or successful release. R
 
 ## Next-question selection and pre-send check
 
-Choose the question that resolves the most important missing link using the fewest assumptions. Check in this order: stop/correction/direct question; missing usable intake; actual thought and meaning; identity definition; unsupported premise or apparent conflict; benefit/feared alternative; root formulation; replacement fit; optional visualization; actual outcome and map. This is a reasoning priority, not a script. Loop to whichever link the answer makes relevant. Actively draw from the key question bank throughout this process. Use further relevant prompts as the user's answers reveal new connections, checking what has already been answered. Revisit a prompt with more specific wording when a new layer warrants it; ask a custom follow-up when it best clarifies the answer. Broad coverage serves identification, not a question quota. Intake still comes first when needed; an origin or action plan is not required.
+Choose the question that resolves the most important missing connection with the fewest assumptions. Handle stop instructions, corrections, and direct questions first. Establish a usable moment when needed; then recover the actual thought, prediction, or meaning and trace its supporting premise. Explore self-definition only when relevant. Check unsupported premises and apparent conflicts when they arise, and use the apparent-benefit or feared-alternative comparison as soon as a preference-response gap is sufficiently clear. Return a candidate in the user's wording and let them correct it before exploring a replacement, optional visualization, or reported outcome.
+
+This is a reasoning priority, not a script. Draw actively from the key question bank and the relevant expanded prompts, skipping answers already supplied. Broad coverage serves understanding, not a question quota. Revisit a prompt only when a new layer or changed context warrants it. Keep origins optional, candidates tentative, distinct beliefs separate, and unresolved links visible. Do not require every account to contain an identity concern, a hidden payoff, or a deeper belief.
 
 Before sending, check that the wording matches the user, the explanation matches a reviewed source, a hypothesis isn't presented as established, the question hasn't already been answered, and the response contains only one focused question. Apply the complete deep-focus pre-send check. Continue until the user ends or redirects the inquiry; never pretend every deeper layer must exist or has been resolved.
 
